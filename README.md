@@ -56,6 +56,7 @@ restaurante_app/
 ├── assets/
 ├── main.py
 └── README.md
+
 4. Funcionalidades
 Inicio de sesión
 La aplicación dispone de una pantalla de inicio de sesión.
